@@ -1,3 +1,6 @@
+htlm{
+  overflow-x: hidden;
+}  
 :root {
   --primary: #4b2142;
   --secondary: #cde6f5;
@@ -10,6 +13,7 @@ body {
   letter-spacing: -0.5px;
   word-spacing: -1px;
   background-color: var(--secondary);
+  overflow-x: hidden;
 }
 p {
   font-size: 0.85rem;
